@@ -141,19 +141,11 @@ If a local MySQL server is not detected or credentials are not configured, the s
 
 ---
 
-## 🚀 Running the Project
+## 🌐 Live Demo
 
-Run the application:
-```bash
-python app.py
-```
-Or using Python 3 launcher on Windows:
-```bash
-py -3 app.py
-```
+**Live Website:** https://attendance-management-system-1-3fey.onrender.com/
 
-After starting, open your browser and navigate to:
-**`http://localhost:5000`**
+Click the link above to access the Attendance Management System.
 
 ---
 
